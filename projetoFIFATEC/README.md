@@ -1,1 +1,2 @@
-# projetoFIFATEC com o objetivo de criar um jogo de chute ao gol
+# projetoFIFATEC
+Jogo de batida de pênaltis , desenvolvido para a materia de PC II 
